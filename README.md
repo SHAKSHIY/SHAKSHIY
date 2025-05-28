@@ -18,7 +18,7 @@
   </a>
 </p>
 
----
+
 
 ### 🛠️ Languages & Tools
 
@@ -39,7 +39,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
 </p>
 
----
+
 
 ### 📊 GitHub Stats
 
@@ -48,7 +48,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHAKSHIY&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
----
 
 ### ✨ Fun Fact
 
