@@ -39,7 +39,7 @@
 
 
 
-### 📊 GitHub Stats:
+
 
 <p align="left" style="display: flex; gap: 20px;">
 
