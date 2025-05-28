@@ -7,14 +7,19 @@
 
 
 ### 🔗 Connect with me:
+
 <p align="left">
   <a href="https://www.linkedin.com/in/shakshi-yadav-bb60a3257" target="_blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="LinkedIn" height="30" width="40" />
   </a>
+</p>
+
+<p align="left">
   <a href="mailto:shakshi0803@gmail.com" target="_blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Email" height="30" width="40" />
   </a>
 </p>
+
 
 
 
