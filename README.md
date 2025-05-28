@@ -41,13 +41,16 @@
 
 
 
+### 📊 GitHub Stats:
+
 <p align="left" style="display: flex; gap: 20px;">
 
   <img src="https://github-readme-stats.vercel.app/api?username=SHAKSHIY&show_icons=true&theme=radical" alt="SHAKSHIY GitHub Stats" />
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHAKSHIY&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHAKSHIY&layout=compact&theme=radical&langs_count=6" alt="Top Languages" />
 
 </p>
+
 
 
 
