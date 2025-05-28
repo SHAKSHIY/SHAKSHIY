@@ -5,19 +5,18 @@
   <img src="https://komarev.com/ghpvc/?username=SHAKSHIY&label=Profile%20views&color=0e75b6&style=flat" alt="SHAKSHIY" />
 </p>
 
----
 
 ### 🔗 Connect with me:
 <p align="left">
   <a href="https://www.linkedin.com/in/shakshi-yadav-bb60a3257" target="_blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="LinkedIn" height="30" width="40" />
   </a>
-  <a href="mailto:your-email@example.com" target="_blank">
+  <a href="mailto:shakshi0803@gmail.com" target="_blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Email" height="30" width="40" />
   </a>
 </p>
 
----
+
 
 ### 🛠️ Languages & Tools:
 
@@ -32,7 +31,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
 </p>
 
----
+
 
 ### 📊 GitHub Stats:
 
@@ -44,22 +43,11 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHAKSHIY&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
----
 
-### 🚀 Notable Projects
-
-- 🎯 [Assessment Recommendation System](https://github.com/SHAKSHIY/Assessment-Recommendation-System)
-- 💼 [CareerLaunch Website](https://github.com/SHAKSHIY/CareerLaunch-website)
-- 🔗 [Distributed URL Shortener](https://github.com/SHAKSHIY/distributed-url-shortener)
-- 👀 [Face Swap](https://github.com/SHAKSHIY/Face-Swap)
-- 🎬 [Movie Recommendation System](https://github.com/SHAKSHIY/Movie-Recommendation-System)
-
----
 
 ### ✨ Fun Fact:
 > 💡 I love solving real-world problems and building tools that help others!
 
----
 
 <p align="center">Thanks for visiting! 💖</p>
 
