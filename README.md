@@ -8,26 +8,17 @@
 
 ### 🔗 Connect with me:
 
-<p align="left" style="display: flex; gap: 20px; align-items: center;">
-  <a href="https://www.linkedin.com/in/shakshi-yadav-bb60a3257" target="_blank" style="text-decoration: none; color: #0A66C2; font-weight: bold; display: flex; align-items: center; gap: 8px;">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="LinkedIn" height="32" width="32" style="filter: drop-shadow(1px 1px 1px rgba(0,0,0,0.1)); transition: transform 0.3s ease;" />
-    LinkedIn
-  </a>
-
-  <a href="mailto:shakshi0803@gmail.com" target="_blank" style="text-decoration: none; color: #D44638; font-weight: bold; display: flex; align-items: center; gap: 8px;">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Email" height="32" width="32" style="filter: drop-shadow(1px 1px 1px rgba(0,0,0,0.1)); transition: transform 0.3s ease;" />
-    Email Me
+<p align="left">
+  <a href="https://www.linkedin.com/in/shakshi-yadav-bb60a3257" target="_blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="LinkedIn" height="30" width="40" />
   </a>
 </p>
 
-<style>
-  a:hover img {
-    transform: scale(1.2);
-  }
-  a:hover {
-    text-decoration: underline;
-  }
-</style>
+<p align="left">
+  <a href="mailto:shakshi0803@gmail.com" target="_blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Email" height="30" width="40" />
+  </a>
+</p>
 
 
 
