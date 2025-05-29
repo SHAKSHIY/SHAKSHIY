@@ -7,6 +7,13 @@
 
 ---
 
+## 👨‍💻 A Developer at Work
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/SHAKSHIY/SHAKSHIY/main/developer.png" alt="developer illustration" width="500"/>
+</p>
+
+
 ### 🔗 Connect with me
 
 <p align="left">
