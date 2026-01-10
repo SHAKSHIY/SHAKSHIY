@@ -46,12 +46,7 @@
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=shakshiy&show_icons=true&theme=radical&include_all_commits=true&count_private=true"
-    height="160"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=shakshiy&layout=compact&theme=radical"
-    height="160"
+    src="https://github-readme-stats.vercel.app/api?username=shakshiy&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"
   />
 </p>
 
