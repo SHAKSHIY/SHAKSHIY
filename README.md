@@ -45,8 +45,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SHAKSHIY&show_icons=true&theme=radical" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHAKSHIY&layout=compact&theme=radical" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=shakshiy&show_icons=true&theme=radical&cache_seconds=1800" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shakshiy&layout=compact&theme=radical&cache_seconds=1800" height="160"/>
 </p>
 
 
